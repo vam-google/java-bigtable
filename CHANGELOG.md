@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.11.1](https://www.github.com/googleapis/java-bigtable/compare/v1.11.0...v1.11.1) (2020-03-16)
+
+
+### Dependencies
+
+* update core dependencies ([#215](https://www.github.com/googleapis/java-bigtable/issues/215)) ([ad7aab4](https://www.github.com/googleapis/java-bigtable/commit/ad7aab435aa31541535e4e202f01a79484f007a5))
+* update dependency com.google.cloud:google-cloud-conformance-tests to v0.0.8 ([#216](https://www.github.com/googleapis/java-bigtable/issues/216)) ([423cb6b](https://www.github.com/googleapis/java-bigtable/commit/423cb6b395aa67986993f7d6c9dbd588e93faca6))
+* update dependency com.google.cloud:google-cloud-core-bom to v1.93.3 ([#219](https://www.github.com/googleapis/java-bigtable/issues/219)) ([92f2755](https://www.github.com/googleapis/java-bigtable/commit/92f2755ca3b5218daa286556ce2c8b2f5b79fad6))
+
 ## [1.11.0](https://www.github.com/googleapis/java-bigtable/compare/v1.10.0...v1.11.0) (2020-03-03)
 
 
